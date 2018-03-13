@@ -6,33 +6,31 @@
 
 int main(void) {
   FILE* inFile = NULL;
-  int numRead = 0;
-  const char *roundOf64[64];
-  const char *roundOf32[32];
-  const char *roundOf16[16];
-  const char *roundOf8[8];
-  const char *roundOf4[4];
-  const char *roundOf2[2];
 
-  int i = 0;
+  char roundOf64[64][50];
+  //char roundOf32[32][50];
+  //char roundOf16[16][50];
+  //char roundOf8[8][50];
+  //char roundOf4[4][50];
+  //char roundOf2[2][50];
+
+  int i;
 
   inFile = fopen("NCAA2018Bracket.txt", "r");
 
-  while (!feof(inFile)) {
-    char* word = (char*)malloc(sizeof(char));
-    fscanf(inFile,"[^\n]", word);
-
-        roundof64[i] = word;
-        ++i;
-
+  for(i=0; i<64; ++i) {
+    char word[50];
+    fgets(word, 50, inFile);
+    word[strlen(word)-1] = '\0';
+    strcpy(roundOf64[i], word);
   }
 
   fclose(inFile);
 
+  printf("Round1:\n\n");
   for(i=0; i<64; ++i) {
-    printf("%s\n", roundOf64[i]);
+      printf("%s\n", roundOf64[i]);
   }
-
 
 
 
