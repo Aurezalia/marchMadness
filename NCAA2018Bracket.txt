@@ -1,65 +1,64 @@
-1 Virginia
+01 Virginia
 16 UMBC
-8 Creighton
-9 Kansas St.
-5 Kentucky
+08 Creighton
+09 Kansas St.
+05 Kentucky
 12 Davidson
-4 Arizona
+04 Arizona
 13 Buffalo
-6 Miami (Fla.)
+06 Miami (Fla.)
 11 Loyola-Chicago
-3 Tennessee
+03 Tennessee
 14 Wright St.
-7 Nevada 
+07 Nevada 
 10 Texas
-2 Cincinnati
+02 Cincinnati
 15 Georgia St.
-1 Xavier
+01 Xavier
 16 NC Central/Texas So.
-8 Missouri
-9 Florida
-5 Ohio St.
+08 Missouri
+09 Florida
+05 Ohio St.
 12 S. Dakota St.
-4 Gonzaga
+04 Gonzaga
 13 UNCG
-6 Houston
+06 Houston
 11 San Diego St.
-3 Michigan
+03 Michigan
 14 Montana
-7 Texas A&M
+07 Texas A&M
 10 Providence
-2 North Carolina
+02 North Carolina
 15 Lipscomb
-1 Villanova
+01 Villanova
 16 LIU Brooklyn/Radford
-8 Virginia Tech
-9 Alabama
-5 West Virginia
+08 Virginia Tech
+09 Alabama
+05 West Virginia
 12 Murray St.
-4 Wichita St.
+04 Wichita St.
 13 Marshall
-6 Florida
+06 Florida
 11 St. Bonaventure/UCLA
-3 Texas Tech
+03 Texas Tech
 14 S.F. Austin
-7 Arkansas
+07 Arkansas
 10 Butler
-2 Purdue
+02 Purdue
 15 CSU Fullerton
-1 Kansas
+01 Kansas
 16 Penn
-8 Seton Hall
-9 NC St.
-5 Clemson
+08 Seton Hall
+09 NC St.
+05 Clemson
 12 New Mexico St.
-4 Auburn
+04 Auburn
 13 Charleston
-6 TCU
+06 TCU
 11 Arizona St./Syracuse
-3 Michigan St.
+03 Michigan St.
 14 Bucknell
-7 Rhode Island
+07 Rhode Island
 10 Oklahoma
-2 Duke
+02 Duke
 15 Iona
-
