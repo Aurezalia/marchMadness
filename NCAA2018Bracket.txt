@@ -15,7 +15,7 @@
 02 Cincinnati
 15 Georgia St.
 01 Xavier
-16 NC Central/Texas So.
+16 NC Central
 08 Missouri
 09 Florida
 05 Ohio St.
@@ -31,7 +31,7 @@
 02 North Carolina
 15 Lipscomb
 01 Villanova
-16 LIU Brooklyn/Radford
+16 Radford
 08 Virginia Tech
 09 Alabama
 05 West Virginia
@@ -39,7 +39,7 @@
 04 Wichita St.
 13 Marshall
 06 Florida
-11 St. Bonaventure/UCLA
+11 St. Bonaventure
 03 Texas Tech
 14 S.F. Austin
 07 Arkansas
@@ -55,7 +55,7 @@
 04 Auburn
 13 Charleston
 06 TCU
-11 Arizona St./Syracuse
+11 Syracuse
 03 Michigan St.
 14 Bucknell
 07 Rhode Island
